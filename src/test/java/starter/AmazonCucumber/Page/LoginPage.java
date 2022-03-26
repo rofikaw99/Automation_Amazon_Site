@@ -1,9 +1,7 @@
-package starter.Facebook.Page;
+package starter.AmazonCucumber.Page;
 
 import net.thucydides.core.annotations.DefaultUrl;
-import net.thucydides.core.annotations.Managed;
 import net.thucydides.core.pages.PageObject;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;

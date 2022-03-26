@@ -1,4 +1,4 @@
-package starter.Facebook.Step;
+package starter.AmazonCucumber.Step;
 
 import net.thucydides.core.annotations.Step;
 

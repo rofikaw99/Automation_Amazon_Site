@@ -1,7 +1,7 @@
-package starter.Facebook.Step;
+package starter.AmazonCucumber.Step;
 
 import net.thucydides.core.annotations.Step;
-import starter.Facebook.Page.LoginPage;
+import starter.AmazonCucumber.Page.LoginPage;
 
 public class LoginFacebookSteps {
 

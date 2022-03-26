@@ -1,11 +1,11 @@
-package starter.Facebook.stepdefinitions;
+package starter.AmazonCucumber.stepdefinitions;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.thucydides.core.annotations.Steps;
-import starter.Facebook.Step.LoginFacebookSteps;
-import starter.Facebook.Step.VerificationSteps;
+import starter.AmazonCucumber.Step.LoginFacebookSteps;
+import starter.AmazonCucumber.Step.VerificationSteps;
 
 public class LoginFacebookStepDef {
 
